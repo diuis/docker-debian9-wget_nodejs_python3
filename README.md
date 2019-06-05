@@ -1,4 +1,4 @@
-# Docker debian 9 image with wget, nodejs and python
+# Docker ubuntu image with wget, nodejs and python
 
 Docker ubuntu image with wget, nodejs, python 2 and python 3
 
