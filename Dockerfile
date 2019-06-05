@@ -1,4 +1,4 @@
-FROM diuis/docker-ubuntu-wget_nodejs:v1.0.1
+FROM diuis/docker-ubuntu-wget_nodejs:19.10
 
 RUN apt-get update && apt-get install --no-install-recommends -y python2 python3 && \
     apt-get autoremove && apt-get clean && \
